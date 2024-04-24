@@ -62,3 +62,15 @@ footer {
     margin-left: -2% !important;
     top: 100%
 }
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1% 2%;
+    width: 90%;
+    color: white;
+    margin: 10px auto;
+    background-color: rgb(78, 190, 200);
+    border: none;
+    border-radius: 7px;
+}
